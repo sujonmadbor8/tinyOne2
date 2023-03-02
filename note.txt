@@ -1,0 +1,15 @@
+tinyOne
+
+psd to html with responsive
+
+color -------
+  --black: #010101;
+    --yellow: #fcdb00;
+    --grey: #898989;
+    --white: #ffffff;
+color -------
+
+font --
+PT-Sans 400 700
+font --
+
